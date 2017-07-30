@@ -1,0 +1,1 @@
+console.error("Error: SyntaxError: Unexpected token / in JSON at position 0 while parsing json file /Users/jadlao/frontend/ABC/firstreactapp/package.json");
